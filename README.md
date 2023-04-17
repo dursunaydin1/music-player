@@ -10,6 +10,6 @@
     Müzik listesi seçeneği ile liste üzerinden kullanıcı isteğine göre dinamik olarak sanatçı ve parça seçme imkanı tanımaktadır.
 </p>
 
-<a href="">Canlı Önizleme</a>
+<a href="https://js-music-player1.netlify.app/">Canlı Önizleme</a>
 
 <img src="images/screen.gif" alt="">
